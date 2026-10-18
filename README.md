@@ -26,5 +26,5 @@ Ecossistema web automatizado rodando em servidor XAMPP, usando PHP para processa
 ---
 
 ## 📬 Vamos nos conectar?
-- **LinkedIn:** [://linkedin.com](www.linkedin.com/in/andersoncosmeti)
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/andersoncosmeti/?isSelfProfile=true)
 - **E-mail:** andersoncosme16@gmail.com
