@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Anderson Cosme! 👋
 
-<!--
-**andersoncosme16-max/andersoncosme16-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software em formação (6º Semestre) focado em Desenvolvimento Web (Back-end / Full-stack) e Análise de Dados. Busco oportunidades de estágio para aplicar tecnologia na resolução de problemas reais.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, Python, C#, PHP, JavaScript, SQL
+- **Frameworks & Web:** Spring MVC, jQuery, Bootstrap 5, HTML5, CSS3, XML
+- **Bancos de Dados:** MySQL, MongoDB (NoSQL)
+- **Ferramentas:** Git, GitHub, IntelliJ, Visual Studio, XAMPP
+
+## 📂 Projetos em Destaque
+
+### ☕ Full-Stack: Ecossistema Web (Spring MVC & Tomcat)
+Aplicação completa integrando Java no back-end com Spring MVC e consumo assíncrono da API ViaCEP. Validações client-side com jQuery e interface responsiva com Bootstrap.
+👉 **[Ver Repositório](https://github.com/andersoncosme16-max/Web_Cadastro_de_Usuarios)**
+
+### 🍃 NoSQL: Modelagem e Manipulação de Dados (MongoDB)
+Estruturação e gerenciamento de banco de dados não-relacional utilizando MongoDB Compass. Criação de coleções, documentos JSON e queries de busca otimizadas.
+👉 **[Ver Repositório](https://github.com/andersoncosme16-max/Projeto_Teste_Gerenciamento)**
+
+### 🐘 Web: Consulta Zodiacal Dinâmica (PHP & XML)
+Ecossistema web automatizado rodando em servidor XAMPP, usando PHP para processamento lógico e leitura de dados estruturados em arquivos XML.
+👉 **[Ver Repositório](https://github.com/andersoncosme16-max/zodiac_sign)**
+
+---
+
+## 📬 Vamos nos conectar?
+- **LinkedIn:** [://linkedin.com](www.linkedin.com/in/andersoncosmeti)
+- **E-mail:** andersoncosme16@gmail.com
